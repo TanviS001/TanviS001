@@ -3,4 +3,4 @@ I’m a CS student 💻, and I love building projects in various programming lan
 
 [![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanviS3000)](https://github.com/TanviS3000/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TanviS3000&repo=github-readme-stats)](https://github.com/TanviS3000/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS3000&exclude_repo=github-readme-stats,TanviS3000.github.io)
