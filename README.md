@@ -2,7 +2,7 @@
 💻 I’m a CS student and an art enthusiast
 💡 I enjoy contributing to problem-solving and creating meaningful projects 
 ☕ In my free time, I love to read 📚, sing 🎤, and paint 🎨
-🎨 Check out my artwork on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tanwie.art/?next=%2F) 🖼️
+🎨 Check out my artwork on [![Instagram @tanwie.art(https://instagram.com/https://www.instagram.com/tanwie.art/?next=%2F) 🖼️
 ✨ I’m also currently learning German and honing my skills in CS 🚀
 
 
