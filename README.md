@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif" alt="programming gif">
-</p>
-
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=💫Hey+there%2C+I'm+Tanvi!)
 
 💻 I'm a CS student @KBJIIT<br>
@@ -37,3 +33,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanviCodesEveryday&icon=0&color=1)](https://visitcount.itsvg.in)
+
+---
+<p align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif" alt="programming gif">
+</p>
+
+
