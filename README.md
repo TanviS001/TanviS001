@@ -2,7 +2,6 @@
 <img src="https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif" alt="programming gif">
 </p>
 
-
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=💫Hey+there%2C+I'm+Tanvi!)
 
 💻 I'm a CS student @KBJIIT<br>
@@ -11,21 +10,6 @@
 📱 I'm currently learning Android App Development<br>
 🎨 I also create art and share it on Instagram @tanwie.art<br>
 🗨️ I like to read (currently reading, The Diary of a CEO)<br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanwie.art/)
@@ -51,6 +35,20 @@
 ## ✨ Top Languages
 ![Tanvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS3000&layout=compact&theme=radical&card_width=1080)
 
----
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
+---
 [![](https://visitcount.itsvg.in/api?id=TanviS3000&icon=0&color=1)](https://visitcount.itsvg.in)
