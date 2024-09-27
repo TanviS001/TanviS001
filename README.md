@@ -32,9 +32,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanviS3000&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 📐 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=TanviS3000&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TanviS3000&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS3000&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) ![](https://github-contributor-stats.vercel.app/api?username=TanviS3000&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS3000&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) 
+
+![](https://github-contributor-stats.vercel.app/api?username=TanviS3000&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanviS3000&icon=0&color=1)](https://visitcount.itsvg.in)
