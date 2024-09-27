@@ -1,7 +1,8 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f6f5d8ac-af53-432f-9e80-eabdf73665a7" alt="programming gif" width="300">
-
-  # 💫 Hi, I'm Tanvi
+</p>
+<p align="center">
+# 💫 Hi, I'm Tanvi
 💻 I'm a CS student @KBJIIT<br>🧩 I enjoy problem solving and building projects<br>📐 I love to learn through implementation<br>📱 I'm currently learning Android App Development<br>🎨 I also create art and share it on Instagram @tanwie.art<br>🗨️ I like to read (currently reading, The Diary of a CEO)<br>
 </p>
 
