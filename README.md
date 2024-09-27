@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f6f5d8ac-af53-432f-9e80-eabdf73665a7" alt="programming gif" width="300">
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="programming gif" width="300">
 </p>
 
 # 💫 Hi, I'm Tanvi
