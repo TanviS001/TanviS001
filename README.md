@@ -35,20 +35,5 @@
 ## ✨ Top Languages
 ![Tanvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS3000&layout=compact&theme=radical&card_width=1080)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=TanviS3000&icon=0&color=1)](https://visitcount.itsvg.in)
