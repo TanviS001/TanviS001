@@ -1,6 +1,7 @@
 <img src="https://github.com/user-attachments/assets/f6f5d8ac-af53-432f-9e80-eabdf73665a7" alt="programming gif" width="200">
+<img src="https://img.freepik.com/free-vector/programmers-day-banner-design_1308-114298.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1727308800&semt=ais_hybrid" alt="Day of the programmer" width="200">
 
-# 💫 Hi, I'm Tanvi
+  # 💫 Hi, I'm Tanvi
 💻 I'm a CS student @KBJIIT<br>🧩 I enjoy problem solving and building projects<br>📐 I love to learn through implementation<br>📱 I'm currently learning Android App Development<br>🎨 I also create art and share it on Instagram @tanwie.art<br>🗨️ I like to read (currently reading, The Diary of a CEO)<br>
 
 ## 🌐 Socials:
