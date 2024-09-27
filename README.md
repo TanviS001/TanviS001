@@ -1,4 +1,4 @@
-[The Programmer Gif file](https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif) 
+![programming](https://github.com/user-attachments/assets/eab41f83-fdec-4120-85c2-a1fc4d6f9dab)
 
 # 💫 Hi, I'm Tanvi
 💻 I'm a CS student @KBJIIT<br>🧩 I enjoy problem solving and building projects<br>📐 I love to learn through implementation<br>📱 I'm currently learning Android App Development<br>🎨 I also create art and share it on Instagram @tanwie.art<br>🗨️ I like to read (currently reading, The Diary of a CEO)<br>
