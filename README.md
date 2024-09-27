@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif" alt="programming gif" width="200">
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif" alt="programming gif">
 </p>
 
 # 💫 Hi, I'm Tanvi
