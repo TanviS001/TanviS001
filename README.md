@@ -39,13 +39,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanviS3000&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 📊 GitHub Stats
+## 🚵‍♀️ GitHub Streak
 ![Tanvi's Streak](https://streak-stats.demolab.com?user=TanviS3000&theme=radical&card_width=1080)
 
+## 📊 GitHub Stats
 ![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanviS3000&show_icons=true&theme=radical&card_width=1080)
 
+## 📈 GitHub Activity Graph
 ![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviS3000&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
+## ✨ Top Languages
 ![Tanvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS3000&layout=compact&theme=radical&card_width=1080)
 
 ---
