@@ -39,9 +39,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TanviS3000&theme=radical&hide_border=false)<br/>
 
 ## Languages
-![StevenHeTimmyGIF](https://github.com/user-attachments/assets/0187f1fa-36b0-4557-845f-a981f6a10915) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS3000&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS3000&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <img src="https://github.com/user-attachments/assets/0187f1fa-36b0-4557-845f-a981f6a10915" alt="Steven He" width="400">
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) 
 
