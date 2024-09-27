@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif" alt="programming gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="programming gif" width="500">
 </p>
 
 # 💫 Hi, I'm Tanvi
