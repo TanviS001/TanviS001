@@ -1,8 +1,7 @@
-<p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif" alt="programming gif">
-</p>
+![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+---
 
-# 💫 Hi, I'm Tanvi
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=💫Hey+there%2C+I'm+Tanvi!)
 💻 I'm a CS student @KBJIIT<br>🧩 I enjoy problem solving and building projects<br>📐 I love to learn through implementation<br>📱 I'm currently learning Android App Development<br>🎨 I also create art and share it on Instagram @tanwie.art<br>🗨️ I like to read (currently reading, The Diary of a CEO)<br>
 
 <picture>
@@ -32,19 +31,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanviS3000&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=TanviS3000&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TanviS3000&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS3000&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) 
+![Tanvi's Streak](https://streak-stats.demolab.com?user=TanviS3000&theme=radical&card_width=1080)
 
-## ✨ Contributions
-![](https://github-contributor-stats.vercel.app/api?username=TanviS3000&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanviS3000&show_icons=true&theme=radical&card_width=1080)
+
+![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviS3000&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
+
+![Tanvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS3000&layout=compact&theme=radical&card_width=1080)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=TanviS3000&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
-
-
-
