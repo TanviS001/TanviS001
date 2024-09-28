@@ -23,17 +23,18 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanviCodesEveryday&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 📈 GitHub Activity Graph
+![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviCodesEveryday&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
+
+## ✨ Top Languages
+![Tanvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviCodesEveryday&layout=compact&theme=radical&card_width=1080)
+
 ## 🚵‍♀️ GitHub Streak
 ![Tanvi's Streak](https://streak-stats.demolab.com?user=TanviCodesEveryday&theme=radical&card_width=1080)
 
 ## 📊 GitHub Stats
 ![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanviCodesEveryday&show_icons=true&theme=radical&card_width=1080)
 
-## 📈 GitHub Activity Graph
-![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviCodesEveryday&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
-
-## ✨ Top Languages
-![Tanvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviCodesEveryday&layout=compact&theme=radical&card_width=1080)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanviCodesEveryday&icon=0&color=1)](https://visitcount.itsvg.in)
