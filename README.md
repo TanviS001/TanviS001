@@ -40,4 +40,3 @@
 [![](https://visitcount.itsvg.in/api?id=TanviCodesEveryday&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
-![Tanvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviCodesEveryday&layout=compact&theme=radical)
