@@ -26,13 +26,19 @@
 ## 📈 GitHub Activity Graph
 ![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviCodesEveryday&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
-## 📊 GitHub Stats
+## My GitHub Stats
 
-<a href="http://www.github.com/TanviCodesEveryday"><img src="https://github-readme-stats.vercel.app/api?username=TanviCodesEveryday&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true&card_width=1080" alt="TanviCodesEveryday's GitHub stats" /></a>
+<a href="http://www.github.com/"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" width="1080" alt="'s GitHub stats" /></a>
 
-<a href="http://www.github.com/TanviCodesEveryday"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TanviCodesEveryday&stroke=ffffff&background=0f172a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=1080" /></a>
+<a href="http://www.github.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="1080"/></a>
 
-<a href="https://github.com/TanviCodesEveryday" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviCodesEveryday&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&card_width=1080" alt="Top Languages" /></a>
+<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" width="1080" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanviCodesEveryday&icon=0&color=1)](https://visitcount.itsvg.in)
