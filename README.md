@@ -8,7 +8,7 @@
 🧩 I enjoy problem solving and building projects<br>
 📐 I love to learn through implementation<br>
 📱 I'm currently learning Android App Development<br>
-🎨 I also create art and share it on Instagram @tanwie.art<br>
+🎨 I also create art and share it on Instagram<br>
 🗨️ I like to read (currently reading, The Diary of a CEO)<br>
 
 ## 🌐 Socials:
