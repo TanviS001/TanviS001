@@ -27,14 +27,16 @@
 ![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviCodesEveryday&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
 ## ✨ Top Languages
-![Tanvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviCodesEveryday&layout=compact&theme=radical&card_width=1080)
+[![TanviCodesEveryday's GitHub | Languages Over Time](https://stats.quira.sh/TanviCodesEveryday/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TanviCodesEveryday)
 
 ## 🚵‍♀️ GitHub Streak
 ![Tanvi's Streak](https://streak-stats.demolab.com?user=TanviCodesEveryday&theme=radical&card_width=1080)
 
 ## 📊 GitHub Stats
-![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanviCodesEveryday&show_icons=true&theme=radical&card_width=1080)
+[![TanviCodesEveryday's GitHub | Stats](https://stats.quira.sh/TanviCodesEveryday/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TanviCodesEveryday)
 
+## 📚 Topics Over Time
+[![TanviCodesEveryday's GitHub | Topics Over Time](https://stats.quira.sh/TanviCodesEveryday/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TanviCodesEveryday)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanviCodesEveryday&icon=0&color=1)](https://visitcount.itsvg.in)
