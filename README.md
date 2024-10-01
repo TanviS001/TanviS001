@@ -19,9 +19,9 @@
 ![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviCodesEveryday&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=TanviCodesEveryday&theme=radical&hide_border=false&include_all_commits=false&count_private=false&width=1080">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanviCodesEveryday&theme=radical&hide_border=false&width=1080">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviCodesEveryday&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&width=1080">
+<img src="https://github-readme-stats.vercel.app/api?username=TanviCodesEveryday&theme=radical&hide_border=false&include_all_commits=false&count_private=false&size=1080x">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanviCodesEveryday&theme=radical&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviCodesEveryday&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&size=1080x">
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanviCodesEveryday&theme=radical&no-frame=false&no-bg=false&margin-w=4)
