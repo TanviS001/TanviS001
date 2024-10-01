@@ -11,6 +11,9 @@
 🎨 I also create art and share it on Instagram<br>
 🗨️ I like to read (currently reading, The Diary of a CEO)<br>
 
+## 🚵‍♀️ GitHub Streak
+![Tanvi's Streak](https://streak-stats.demolab.com?user=TanviCodesEveryday&theme=radical&card_width=1080)
+
 ## 🌐 Socials:
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
@@ -35,8 +38,7 @@
 ## 📚 Topics Over Time
 [![TanviCodesEveryday's GitHub | Topics Over Time](https://stats.quira.sh/TanviCodesEveryday/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TanviCodesEveryday)
 
-## 🚵‍♀️ GitHub Streak
-![Tanvi's Streak](https://streak-stats.demolab.com?user=TanviCodesEveryday&theme=radical&card_width=1080)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanviCodesEveryday&icon=0&color=1)](https://visitcount.itsvg.in)
