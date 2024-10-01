@@ -4,7 +4,7 @@
 
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=💫Hey+there%2C+I'm+Tanvi!)
 
-💻 I'm a CS student @KBJIIT<br>
+💻 I'm a CS student<br>
 🧩 I enjoy problem solving and building projects<br>
 📐 I love to learn through implementation<br>
 📱 I'm currently learning Android App Development<br>
