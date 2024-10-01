@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/57b8a8a8-9e02-45ea-b553-77960b77252b" alt="programming gif">
+<img src="https://github.com/user-attachments/assets/57b8a8a8-9e02-45ea-b553-77960b77252b" width=1080 alt="programming gif">
 </p>
 
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=💫Hey+there%2C+I'm+Tanvi!)
