@@ -29,8 +29,6 @@
 ## ✨ Top Languages
 [![TanviCodesEveryday's GitHub | Languages Over Time](https://stats.quira.sh/TanviCodesEveryday/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TanviCodesEveryday)
 
-<div class="sc-ba25cb03-2 gcUumQ">My Stats</div>
-
 ## 📊 GitHub Stats
 [![TanviCodesEveryday's GitHub | Stats](https://stats.quira.sh/TanviCodesEveryday/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TanviCodesEveryday)
 
