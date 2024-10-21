@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a3c351e1-b887-46f3-9a0a-11c98dbcea9f)
+
 # 💫 Hii, I'm Tanvi 
 
 ## ✨ About Me:
