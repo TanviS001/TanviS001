@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3c351e1-b887-46f3-9a0a-11c98dbcea9f)
+![image](https://github.com/user-attachments/assets/9eb56444-6139-44d1-8045-10db03868f88)
 
 # 💫 Hii, I'm Tanvi 
 
