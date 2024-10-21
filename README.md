@@ -30,6 +30,6 @@
 
 ---
 
-![hacker](https://github.com/user-attachments/assets/772435a1-798b-46fe-81d5-c26267ab037f)
+![gif](https://github.com/user-attachments/assets/accd2bb5-ce6f-46d5-9ef3-3fc996dcace5)
 
 ---
