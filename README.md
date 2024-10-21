@@ -3,21 +3,6 @@
 ## ✨ About Me:
 💻 I'm a CS student<br>🧩 I enjoy problem solving and building projects<br>📐 I love to learn through implementation<br>📱 I'm currently learning Android App Development<br>🎨 I also create art and share it on Instagram<br>🗨️ I like to read (currently reading, The Diary of a CEO)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 ---
 
 ## 💻 Tech Stack:
@@ -38,6 +23,23 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanviCodesEveryday&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 
 ### 🌟 Holopin Board
 [![An image of @tanvicodeseveryday's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanvicodeseveryday)](https://holopin.io/@tanvicodeseveryday)
