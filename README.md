@@ -1,7 +1,6 @@
-[![image](https://github.com/user-attachments/assets/9eb56444-6139-44d1-8045-10db03868f88)
-](https://camo.githubusercontent.com/89a46b75cb2af1de643c4ae5e510aff5c0fa30e7e2a9cdfa5e4ab46eae39a19e/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
+ ![mario boy](https://github.com/user-attachments/assets/d136a4f1-73ef-49ad-8955-7762c2bff409)
+# 💫 Hii, I'm Tanvi
 
-# 💫 Hii, I'm Tanvi 
 
 ## ✨ About Me:
 💻 I'm a CS student<br>🧩 I enjoy problem solving and building projects<br>📐 I love to learn through implementation<br>📱 I'm currently learning Android App Development<br>🎨 I also create art and share it on Instagram<br>🗨️ I like to read (currently reading, The Diary of a CEO)
