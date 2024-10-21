@@ -1,4 +1,7 @@
  ![mario boy](https://github.com/user-attachments/assets/d136a4f1-73ef-49ad-8955-7762c2bff409)
+ 
+ ---
+
 # 💫 Hii, I'm Tanvi
 
 
@@ -24,5 +27,9 @@
 
 ### 🌟 Holopin Board
 [![An image of @tanvicodeseveryday's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanvicodeseveryday)](https://holopin.io/@tanvicodeseveryday)
+
+---
+
+![hacker](https://github.com/user-attachments/assets/772435a1-798b-46fe-81d5-c26267ab037f)
 
 ---
