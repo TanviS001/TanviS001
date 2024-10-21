@@ -1,7 +1,3 @@
- ![mario boy](https://github.com/user-attachments/assets/d136a4f1-73ef-49ad-8955-7762c2bff409)
-
- ---
-
 # 💫 Hii, I'm Tanvi
 
 ## ✨ About Me:
