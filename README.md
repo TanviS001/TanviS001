@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+coders+everywhere!;I+am+Tanvi!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="ReadMe Headline">
+</p>
+
 # 💫 Hii, I'm Tanvi
 
 ## ✨ About Me:
