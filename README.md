@@ -1,6 +1,5 @@
 
 
-
 <img src="https://64.media.tumblr.com/7b29fca94c423f62bd884e7e67e3c84c/tumblr_ntekpqHBqN1rut1rdo1_500.gif" height="300px">
 
 # 💫 Hii, I'm Tanvi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
