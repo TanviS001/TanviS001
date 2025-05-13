@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/177eabda-748c-463c-ada7-4d09a15e2121" height="300px">
+<img src="https://github.com/user-attachments/assets/2092525b-c87c-4cd1-9e3f-b86009464af6">
 
 # 💫 Hii, I'm Tanvi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
