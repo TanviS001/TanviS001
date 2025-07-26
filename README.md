@@ -13,7 +13,7 @@
 
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TanviS2025&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TanviS001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <picture width="1080px">
@@ -34,14 +34,14 @@
 ---
 
 ## 📈 GitHub Activity Graph
-![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviS2025&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
+![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanviS001&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
 ---
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=TanviS2025&theme=radical&hide_border=false&include_all_commits=false&count_private=false&size=1080x&card_width=1080">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanviS2025&theme=radical&hide_border=false&card_width=1080">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS2025&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&size=1080x&card_width=1080">
+<img src="https://github-readme-stats.vercel.app/api?username=TanviS001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&size=1080x&card_width=1080">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanviS001&theme=radical&hide_border=false&card_width=1080">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviS001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&size=1080x&card_width=1080">
 
 ---
 
