@@ -1,5 +1,4 @@
-<img width="100%" alt="Black Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/e6e7265b-6580-41eb-9520-5f2404f08423" />
-
+<img width="400px" alt="coder gif" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
 # 💫 Hii, I'm Tanvi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
