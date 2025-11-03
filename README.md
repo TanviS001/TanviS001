@@ -46,8 +46,3 @@
 
 ### 🌟 Holopin Board 2024
 [![An image of @tanvicodeseveryday's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanvicodeseveryday)](https://holopin.io/@tanvicodeseveryday)
-
----
-### 🌟 Holopin Board 2025
-[![An image of @tanvis001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanvis001)](https://holopin.io/@tanvis001)
-[![](https://visitcount.itsvg.in/api?id=TanviCodesEveryday&icon=0&color=0)](https://visitcount.itsvg.in)
