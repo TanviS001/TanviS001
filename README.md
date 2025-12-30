@@ -1,3 +1,5 @@
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/6101b792-b540-4c6f-950e-193bf80f2258" />
+
 
 # 💫 Hii, I'm Tanvi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
